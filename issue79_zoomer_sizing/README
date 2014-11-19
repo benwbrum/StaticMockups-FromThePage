@@ -1,0 +1,3 @@
+The best I could come up with was a problem with dynamic sizing of the container div -- the 
+container appears to be sized to hold the un-shrunken image, if you look at the positioning 
+of the +/- controls way at the bottom of the browser.

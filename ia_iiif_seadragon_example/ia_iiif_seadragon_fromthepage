@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Transcribe - Untitled Page 38 (Jeremiah White Graves Diaries, NYC Marriage Index - Manhattan 1908) | FromThePage</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Untitled Page 38 (Jeremiah White Graves Diaries, NYC Marriage Index - Manhattan 1908) - transcribe page.">
+    <meta name="author" content="FromThePage.com">
+    <meta name="copyright" content="(c) 2016 FromThePage.com">
+    <meta name="verify-v1" content="2pFw887E35Fhfkyj/nFGzyui8dJ4rLbluudrp1mDcj0=">
+    <meta content="authenticity_token" name="csrf-param">
+    <meta content="rQ22wWvOma7qgOt8KtT1SNIwx77CFrX7cneqLT7A4z0=" name="csrf-token">
+    <link href="http://localhost:3000/assets/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <link href="ia_iiif_seadragon_fromthepage_files/css.css" media="screen" rel="stylesheet">
+    <link href="ia_iiif_seadragon_fromthepage_files/application.css" media="screen" rel="stylesheet">
+    <script src="ia_iiif_seadragon_fromthepage_files/mixpanel-2-latest.js" async="" type="text/javascript"></script><script type="text/javascript">
+      (function(e,b){if(!b.__SV){var a,f,i,g;
+      window.mixpanel=b;
+      b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");
+      2==a.length&&(b=b[a[0]],h=a[1]);
+      b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";
+      c.people=c.people||[];c.toString=function(b){var a="mixpanel";
+      "mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};
+      c.people.toString=function(){return c.toString(1)+".people (stub)"};
+      i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+      for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};
+      b.__SV=1.2;a=e.createElement("script");
+      a.type="text/javascript";
+      a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+      f=e.getElementsByTagName("script")[0];
+      f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);mixpanel.init("d5e53d2387f7184a07bf99f207df9603");
+    </script>
+  <script src="ia_iiif_seadragon_fromthepage_files/ga.js" async="" type="text/javascript"></script></head>
+<body>
+
+  <header class="header">
+    <div class="toolbar">
+      <div class="toolbar_group"><a class="logo" href="http://localhost:3000/">
+                <svg><use xlink:href="/assets/symbols.svg#logo"></use></svg></a>
+      </div>
+      <div class="toolbar_group">
+        <a class="header_link" href="http://localhost:3000/dashboard/watchlist">Home</a><a class="header_link" href="http://localhost:3000/dashboard">Collections</a><a class="header_link" href="http://localhost:3000/static/faq">FAQ</a>
+        <dl class="dropdown right">
+          <dt class="header_link header_user">
+            <span><big>Signed as</big><small>Ben Brumfield</small></span><svg class="icon"><use xlink:href="/assets/symbols.svg#header-user"></use></svg>
+          </dt>
+          <dd>
+            <a href="http://localhost:3000/dashboard/owner">Owner Dashboard</a><a href="http://localhost:3000/dashboard/watchlist">Editor Dashboard</a>
+            <hr>
+            <a href="http://localhost:3000/user/profile?user_id=2">Your Profile</a>
+            <hr>
+            <a data-method="delete" href="http://localhost:3000/users/sign_out" rel="nofollow">Sign Out</a>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </header>
+  <main class="wrapper"><ul class="breadcrumbs">
+      <li>
+        <a href="http://localhost:3000/collection/show?collection_id=5">Jeremiah White Graves Diaries</a>
+      </li>
+      <li>
+        <a href="http://localhost:3000/display/read_work?work_id=158">NYC Marriage Index - Manhattan 1908</a>
+      </li>
+    </ul><div class="headline">
+  <h1 class="headline_title">
+    Untitled Page 38
+  </h1>
+  <div class="headline_aside">
+    <nav class="page-nav"><a class="page-nav_prev" href="http://localhost:3000/transcribe/display_page?page_id=10749">
+            <svg class="icon"><use xlink:href="/assets/symbols.svg#icon-arrow-left"></use></svg></a><span class="page-nav_info">Page 38 of 2560</span><a class="page-nav_next" href="http://localhost:3000/transcribe/display_page?page_id=10751"><svg class="icon"><use xlink:href="/assets/symbols.svg#icon-arrow-right"></use></svg></a>
+    </nav>
+  </div>
+</div>
+<div class="tabs"><a href="http://localhost:3000/display/display_page?page_id=10750">Overview</a>
+    <a class="active">Transcribe</a><a href="http://localhost:3000/page_version/list?page_id=10750">Versions</a><a href="http://localhost:3000/page/edit?page_id=10750">Settings</a>
+</div><form accept-charset="UTF-8" action="/transcribe/save_transcription" class="page-editor" id="edit_page_10750" method="post"><div style="display:none"><input name="utf8" value="✓" type="hidden"><input name="_method" value="patch" type="hidden"><input name="authenticity_token" value="rQ22wWvOma7qgOt8KtT1SNIwx77CFrX7cneqLT7A4z0=" type="hidden"></div><input id="page_id" name="page_id" value="10750" type="hidden">
+<div class="page-toolbar">
+  <div class="toolbar">
+    <div class="toolbar_group">
+      <label class="hide-l" for="page_status" title="Mark the page as blank if there is no meaningful text on this page. Mark the page as incomplete to list it for review by others.">Status</label><select class="wauto" id="page_status" name="page[status]"><option selected="selected" value="">- Transcription status not set -</option>
+      <option value="blank">Blank/Nothing to Transcribe</option>
+      <option value="incomplete">Incomplete Transcription</option></select>
+    </div>
+    <div class="toolbar_group">
+      <a class="button outline" data-fullscreen-toggle="">Fullscreen</a>
+    </div>
+    <div class="toolbar_group">
+      <dl class="dropdown page-columns-layout" data-dropdown="{ &quot;selectable&quot;: true }">
+        <dt class="button outline">
+          <svg class="icon"><use xlink:href="/assets/symbols.svg#icon-layout-ltr"></use></svg><span class="hide-l">Image at the left</span>
+        </dt>
+        <dd>
+          <a data-layout-set="ltr"><svg class="icon"><use xlink:href="/assets/symbols.svg#icon-layout-ltr"></use></svg><span>Image at the left</span></a>
+          <a data-layout-set="rtl"><svg class="icon"><use xlink:href="/assets/symbols.svg#icon-layout-rtl"></use></svg><span>Image at the right</span></a>
+          <a data-layout-set="ttb"><svg class="icon"><use xlink:href="/assets/symbols.svg#icon-layout-ttb"></use></svg><span>Image at the top</span></a>
+          <a data-layout-set="btt"><svg class="icon"><use xlink:href="/assets/symbols.svg#icon-layout-btt"></use></svg><span>Image at the bottom</span></a>
+        </dd>
+      </dl>
+    </div>
+    <div class="toolbar_group hide-m">
+      <label class="auto-fullscreen"><input id="auto-fullscreen" name="auto-fullscreen" value="yes" type="checkbox">&nbsp;<span>Always show in fullscreen</span></label>
+    </div>
+    <div class="toolbar_group w100 aright">
+      <button name="save" type="submit">Save Changes</button>
+    </div>
+  </div>
+</div>
+<div style="height: 353.833px;" class="page-columns" data-layout-mode="ltr" data-fullheight="{ &quot;bottom&quot;: 30, &quot;cssrule&quot;: &quot;height&quot; }">
+  <div class="page-column">
+    <div class="page-imagescan"><script src="ia_iiif_seadragon_fromthepage_files/openseadragon.js"></script>
+          <div id="example-inline-configuration-for-iiif" style="width:100%;height:100%;border:1px solid black;color:#333;background-color: black;">
+      		<script type="text/javascript">
+      		    OpenSeadragon({
+      		        id:                 "example-inline-configuration-for-iiif",  //div id to put this image in 
+      		        prefixUrl:          "../assets/iiif-images/",
+      		        preserveViewport:   true,
+      		        visibilityRatio:    1,
+      		        minZoomLevel:       1,
+      		        defaultZoomLevel:   1,
+      		        sequenceMode:       false, //we want fromthepage to handle pages sequentially, rather than openseadragon
+      		      	tileSources:   [
+      		      	  "https://iiif.archivelab.org/iiif/NYC_Marriage_Index_Manhattan_1908$38/info.json"
+      		      	]
+      		      });
+      		</script><div class="openseadragon-container" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; width: 100%; height: 100%; overflow: hidden; left: 0px; top: 0px; text-align: left;"><div dir="ltr" tabindex="0" class="openseadragon-canvas" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; width: 100%; height: 100%; overflow: hidden; top: 0px; left: 0px; text-align: left;"><canvas height="625" width="554" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; width: 100%; height: 100%;"></canvas><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"></div></div><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; left: 0px; top: 0px;"><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static; display: inline-block; opacity: 0;"><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; display: inline-block;"><label style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"></label><div title="Zoom in" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; display: inline-block;"><img alt="Zoom in" src="ia_iiif_seadragon_fromthepage_files/zoomin_rest.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"><img alt="Zoom in" src="ia_iiif_seadragon_fromthepage_files/zoomin_grouphover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; opacity: 0;"><img alt="Zoom in" src="ia_iiif_seadragon_fromthepage_files/zoomin_hover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"><img alt="Zoom in" src="ia_iiif_seadragon_fromthepage_files/zoomin_pressed.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"></div><div title="Zoom out" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; display: inline-block;"><img alt="Zoom out" src="ia_iiif_seadragon_fromthepage_files/zoomout_rest.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"><img alt="Zoom out" src="ia_iiif_seadragon_fromthepage_files/zoomout_grouphover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; opacity: 0;"><img alt="Zoom out" src="ia_iiif_seadragon_fromthepage_files/zoomout_hover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"><img alt="Zoom out" src="ia_iiif_seadragon_fromthepage_files/zoomout_pressed.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"></div><div title="Go home" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; display: inline-block;"><img alt="Go home" src="ia_iiif_seadragon_fromthepage_files/home_rest.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"><img alt="Go home" src="ia_iiif_seadragon_fromthepage_files/home_grouphover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; opacity: 0;"><img alt="Go home" src="ia_iiif_seadragon_fromthepage_files/home_hover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"><img alt="Go home" src="ia_iiif_seadragon_fromthepage_files/home_pressed.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"></div><div title="Toggle full page" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: relative; display: inline-block;"><img alt="Toggle full page" src="ia_iiif_seadragon_fromthepage_files/fullpage_rest.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: static;"><img alt="Toggle full page" src="ia_iiif_seadragon_fromthepage_files/fullpage_grouphover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; opacity: 0;"><img alt="Toggle full page" src="ia_iiif_seadragon_fromthepage_files/fullpage_hover.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"><img alt="Toggle full page" src="ia_iiif_seadragon_fromthepage_files/fullpage_pressed.png" style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; visibility: hidden;"></div></div></div></div><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; right: 0px; top: 0px;"></div><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; right: 0px; bottom: 0px;"></div><div style="background: transparent none repeat scroll 0% 0%; border: medium none; margin: 0px; padding: 0px; position: absolute; left: 0px; bottom: 0px;"></div></div>
+              <noscript>
+                  <p>OpenSeadragon is not available unless JavaScript is enabled.</p>
+                  <img src='/example-images/highsmith/01967v.jpg'
+                       height='600'/>
+              </noscript>
+          </div>
+    </div>
+  </div>
+  <div class="page-column">
+    <div class="page-column_actions"><a class="button" href="http://localhost:3000/transcribe/display_page?page_id=10750&amp;preview=true">View</a> <button name="autolink" type="submit">Autolink</button> 
+    </div>
+    <div class="page-editarea"><textarea id="page_source_text" name="page[source_text]"></textarea>
+    </div>
+  </div>
+</div></form>
+<div class="fgfaded"><p>A single carriage-return indicates a line-break 
+in the original document, and will not appear to readers. Two 
+carriage-returns indicate a paragraph, and will appear as a paragraph 
+break to readers. You can use double braces to link subjects. <code>[[Jane Doe]]</code> will link to the subject Jane Doe, while <code>[[Jane Doe|Jane]]</code>
+ will link the text "Jane" to the subject Jane Doe. We recommend that 
+linking be left to an editor after the initial transcription is made.</p>
+</div>
+<h2 class="legend">
+  Page Notes
+</h2>
+<div class="page-notes"><p class="acenter fglight" data-note-empty="">
+  Nobody wrote a note for this page yet
+</p>
+<div class="user-bubble">
+  <div class="userpic">
+    <img alt="Ben Brumfield" src="ia_iiif_seadragon_fromthepage_files/d34fc3a0018a48156439cccf0c62ee8e.jpeg" height="80" width="80">
+  </div><form accept-charset="UTF-8" action="/notes" class="user-bubble_form" data-remote="true" method="post"><div style="display:none"><input name="utf8" value="✓" type="hidden"></div>
+  <input id="page_id" name="page_id" value="10750" type="hidden">
+  <div class="user-bubble_form_editor"><textarea id="note_body" name="note[body]" placeholder="Write a new note..." rows="4"></textarea>
+  </div>
+  <div class="user-bubble_form_footer">
+    <span class="user-bubble_form_error"></span><button name="button" type="submit">Submit</button>
+  </div></form>
+</div>
+</div>
+<script type="text/javascript">
+  mixpanel.track("Transcribe Page");
+</script></main>
+  <footer class="footer">
+    <div class="footer_copyright">
+      © 2016 <a href="http://localhost:3000/">FromThePage</a>. All rights reserved.
+    </div>
+    <div class="footer_nav">
+      <a href="http://localhost:3000/static/about">About</a><a href="http://fromthepage.wpengine.com/terms-of-service/">Terms &amp; Conditions</a><a href="http://localhost:3000/static/privacy">Privacy Policy</a><a href="mailto:benwbrum@gmail.com">Contact Us</a>
+    </div>
+  </footer>
+  <div class="page-busy-overlay"></div>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery_003.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery_ujs.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery_005.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery_004.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/jquery_002.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/js.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/select2.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/svg4everybody.js"></script>
+  <script src="ia_iiif_seadragon_fromthepage_files/application.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      // Toggle note edit
+      $(document).on('click', '[data-note-edit]', function() {
+        var $container = $(this).closest('.user-bubble').toggleClass('edit');
+        if($container.hasClass('edit')) {
+          $('form', $container)[0].reset();
+          $('.user-bubble_form_error', $container).empty();
+        }
+      });
+    
+      // Create and update note
+      $(document).on('ajax:complete', 'form.user-bubble_form', function(e, xhr) {
+        var $container = $(this).parent();
+        var $error = $('.user-bubble_form_error', $container).empty();
+        if(xhr.status === 201) {
+          // Note created
+          var content = xhr.responseJSON.html;
+          $(content).hide().insertBefore($container).fadeIn();
+          $('[data-note-empty]').hide();
+          this.reset();
+        } else if(xhr.status === 204) {
+          // Note updated
+          var content = $('textarea', this).val();
+          $container.removeClass('edit');
+          $('.user-bubble_content > p', $container).text(content);
+        } else {
+          // Error occurred
+          var message = xhr.responseJSON.join('. ');
+          $error.text('Error: ' + message);
+        }
+      });
+    
+      // Delete note
+      $(document).on('ajax:complete', '[data-note-delete]', function(e, xhr) {
+        if(xhr.status === 200 || xhr.status === 204) {
+          var $container = $(this).closest('.user-bubble');
+          $container.fadeOut(function() { $(this).remove(); });
+        }
+      });
+    });
+  </script>
+  <script type="text/javascript">
+    $(function() {
+      $('[data-fullscreen-toggle]').on('click', function() {
+        $(this).toggleClass('pressed');
+        $('.page-editor').toggleClass('fullscreen');
+        $(window).trigger('resize.FullHeight');
+        $('.zoomer-container').zoomer('resize');
+      });
+      $('[data-layout-set]').on('click', function() {
+        var mode = $(this).data('layout-set');
+        Cookies.set('transcribe_layout_mode', mode, { expires: 365 });
+        $('[data-layout-mode]').attr('data-layout-mode', mode);
+        $('.zoomer-container').zoomer('resize');
+      });
+      $('#auto-fullscreen').on('change', function() {
+        var checked = this.checked ? 'yes' : 'no';
+        Cookies.set('auto_fullscreen', checked, { expires: 365 });
+      });
+    });
+  </script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-1505790-5"]);
+    _gaq.push(["_trackPageview"]);
+    _gaq.push(["_trackPageLoadTime"]);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('head')[0]; s.appendChild(ga);
+    })();
+  </script>
+</body></html>

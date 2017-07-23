@@ -6,4 +6,4 @@ These may include experimental designs, client-side bug fixes,
 or javascript prototypes.
 
 
-[Mirador Mock-up for field books:](mirador_mvz/index.html)
+* [Mirador Mock-up for field books](mirador_mvz/index.html)
